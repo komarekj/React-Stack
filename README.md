@@ -5,6 +5,7 @@
 * [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
 
 ## Forms
+* [Cleave.js](https://github.com/nosir/cleave.js)
 * [Formik](https://github.com/jaredpalmer/formik)
 * [React Hook Form](https://github.com/react-hook-form/react-hook-form)
 
