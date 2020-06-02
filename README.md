@@ -33,6 +33,7 @@
 * [Styled Components](https://github.com/styled-components/styled-components)
 
 ## Testing
+* [Cypress](https://github.com/cypress-io/cypress)
 * [Jest](https://github.com/facebook/jest)
 * [React Testing Library](https://github.com/testing-library/react-testing-library)
 * [Redux Mock Store](https://github.com/reduxjs/redux-mock-store)
