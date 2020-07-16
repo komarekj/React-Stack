@@ -49,7 +49,7 @@
 ## Utilities
 * [Create React App](https://github.com/facebook/create-react-app)
 * [Decimal.js](https://github.com/MikeMcl/decimal.js)
-* [Helmet] (https://github.com/nfl/react-helmet)
+* [Helmet](https://github.com/nfl/react-helmet)
 * [Lodash](https://github.com/lodash/lodash)
 * [Moment](https://github.com/moment/moment)
 * [Prop Types](https://github.com/facebook/prop-types)
