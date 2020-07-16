@@ -13,6 +13,7 @@
 * [Airbnb Style Guide](https://github.com/airbnb/javascript)
 * [ESlint](https://github.com/eslint/eslint)
 * [Husky](https://github.com/typicode/husky)
+* [Lint Staged](https://github.com/okonet/lint-staged)
 * [Prettier](https://github.com/prettier/prettier)
 
 ## Routing
