@@ -59,7 +59,6 @@
 * [is.js](https://github.com/arasatasaygin/is.js)
 * [Lodash](https://github.com/lodash/lodash)
 * [Moment](https://github.com/moment/moment)
-
 * [React Hooks](https://github.com/streamich/react-use)
 
 ## Others
