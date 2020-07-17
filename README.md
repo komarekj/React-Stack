@@ -42,6 +42,10 @@
 * [Redux Mock Store](https://github.com/reduxjs/redux-mock-store)
 * [Redux Saga Test Plan](https://github.com/jfairbank/redux-saga-test-plan)
 
+## Types
+* [Airbnb PropType Validators](https://github.com/airbnb/prop-types)
+* [Prop Types](https://github.com/facebook/prop-types)
+
 ## User Interface
 * [Material UI](https://github.com/mui-org/material-ui)
 * [React Slick](https://github.com/akiran/react-slick)
@@ -55,7 +59,7 @@
 * [is.js](https://github.com/arasatasaygin/is.js)
 * [Lodash](https://github.com/lodash/lodash)
 * [Moment](https://github.com/moment/moment)
-* [Prop Types](https://github.com/facebook/prop-types)
+
 * [React Hooks](https://github.com/streamich/react-use)
 
 ## Others
