@@ -37,6 +37,7 @@
 ## Testing
 * [Cypress](https://github.com/cypress-io/cypress)
 * [Jest](https://github.com/facebook/jest)
+* [Jest DOM](https://github.com/testing-library/jest-dom)
 * [React Testing Library](https://github.com/testing-library/react-testing-library)
 * [Redux Mock Store](https://github.com/reduxjs/redux-mock-store)
 * [Redux Saga Test Plan](https://github.com/jfairbank/redux-saga-test-plan)
