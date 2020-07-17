@@ -50,10 +50,13 @@
 ## Utilities
 * [Create React App](https://github.com/facebook/create-react-app)
 * [Decimal.js](https://github.com/MikeMcl/decimal.js)
+* [date-fns](https://github.com/date-fns/date-fns)
 * [Helmet](https://github.com/nfl/react-helmet)
+* [is.js](https://github.com/arasatasaygin/is.js)
 * [Lodash](https://github.com/lodash/lodash)
 * [Moment](https://github.com/moment/moment)
 * [Prop Types](https://github.com/facebook/prop-types)
+* [React Hooks](https://github.com/streamich/react-use)
 
 ## Others
 * [Axios](https://github.com/axios/axios)
